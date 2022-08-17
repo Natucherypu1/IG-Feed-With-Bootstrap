@@ -18,3 +18,9 @@ img{
 }
 
 input{width: 95%;}
+.Post-header{
+  padding-left: 10px;
+}
+.Post-date{
+  padding-right: 10px;
+}
